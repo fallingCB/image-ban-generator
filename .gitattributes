@@ -1,0 +1,5 @@
+# keep the working tree identical to what tools/build_page.py writes, on every platform
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary

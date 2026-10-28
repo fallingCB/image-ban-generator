@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# rebuilt by tools\run_tests.cmd (see the 校验 section of README.md)
+tools/gifs/
+tools/_browsertest/
+tools/_gife2e/
